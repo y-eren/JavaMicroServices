@@ -1,0 +1,8 @@
+package com.eazybytes.loans.repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class LoansRepository  extends {
+
+}

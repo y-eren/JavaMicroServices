@@ -1,0 +1,14 @@
+package com.eazybytes.loans.service.impl;
+
+import com.eazybytes.loans.service.ILoansService;
+
+public class LoansServiceImpl implements ILoansService {
+
+	@Override
+	public void createLoans(String mobileNumber) {
+		
+		
+	}
+
+	
+}

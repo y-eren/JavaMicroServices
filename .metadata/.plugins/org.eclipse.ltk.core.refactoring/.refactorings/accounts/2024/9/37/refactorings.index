@@ -1,0 +1,17 @@
+1725968499732	Rename resource 'application.properties'
+1725974224800	Rename type 'CustomerTable'
+1725974603774	Delete element
+1725974668227	Copy compilation unit
+1725974684247	Rename type 'Account'
+1725975345564	Delete element
+1725975374839	Copy compilation unit
+1725977379978	Copy compilation unit
+1725982009556	Rename type 'AccountsDTO'
+1725982024685	Rename type 'CustomerDTO'
+1725982034644	Rename type 'ErrorResponseDTO'
+1725982049542	Rename type 'ResponseDTO'
+1726054614765	Rename type 'AccountController'
+1726054639680	Rename type 'IAccountService'
+1726054651040	Rename type 'AccountServiceImpl'
+1726054707339	Rename type 'AccountRepository'
+1726061836020	Copy compilation unit
