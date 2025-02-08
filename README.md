@@ -103,4 +103,4 @@ Bu repo, **Madan Reddy'nin Udemy'deki "Master Microservices with SpringBoot, Doc
 - Docker ve Kubernetes kullanarak büyük ölçekli uygulamaların nasıl yönetilebileceğini anladım.  
 - RabbitMQ ve Kafka gibi mesajlaşma sistemlerinin mikroservisler arasındaki iletişimde nasıl kritik bir rol oynadığını deneyimledim.  
 
-Bu notlar, öğrendiğim konuları derleyerek kendi projelerime uygulamamı kolaylaştırmak için hazırlanmıştır. Eğer mikroservisler hakkında daha fazla bilgi edinmek istiyorsanız, bu eğitimi inceleyebilirsiniz.
+Bu notlar, öğrendiğim konuları derleyerek kendi projelerime uygulamamı kolaylaştırmak için hazırlanmıştır.
